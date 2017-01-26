@@ -1,4 +1,4 @@
-# Building an AJAX File Uploader with NodeJs on Apache server
+# An AJAX File Uploader with NodeJs on Apache server
 
 This code is an AJAX file uploader with NodeJs, express, and formidable hosted on Apache server.
 
